@@ -3,7 +3,7 @@
 This repository contains two newly generated math questions as per the given assignment instructions.
 
 ## Contents
-- `Assignment.docx`: Final Word document with both updated questions.
+- `Assignment.pdf`: Final Word document with both updated questions.
 - `Picture1.png`: Top view diagram for Question 2.
 
 ## Notes
